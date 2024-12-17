@@ -1,0 +1,140 @@
+{
+  "cafe": {
+    "name": {
+      "ru": "кафе"
+    },
+    "style": {
+      "icon": "local_cafe",
+      "bgColor": "brown"
+    }
+  },
+  "car": {
+    "name": {
+      "ru": "машина"
+    },
+    "style": {
+      "icon": "drive_eta",
+      "bgColor": "blue"
+    }
+  },
+  "clothes": {
+    "name": {
+      "ru": "одежда"
+    },
+    "style": {
+      "icon": "checkroom"
+    }
+  },
+  "colors": {
+    "name": {
+      "ru": "цвета"
+    },
+    "style": {
+      "icon": "palette"
+    }
+  },
+  "compare": {
+    "name": {
+      "ru": "сравнение"
+    }
+  },
+  "dir": {
+    "name": {
+      "ru": "направл."
+    },
+    "style": {
+      "icon": "navigation",
+      "bgColor": "teal"
+    }
+  },
+  "doctor": {
+    "name": {
+      "ru": "врач"
+    },
+    "style": {
+      "icon": "medication",
+      "bgColor": "red"
+    }
+  },
+  "figures": {
+    "name": {
+      "ru": "фигуры"
+    },
+    "style": {
+      "icon": "view_in_ar"
+    }
+  },
+  "foods": {
+    "name": {
+      "ru": "продукты"
+    }
+  },
+  "fruits": {
+    "name": {
+      "ru": "фрукты"
+    }
+  },
+  "misc": {
+    "name": {
+      "ru": "разное"
+    },
+    "style": {
+      "icon": "bookmark",
+      "bgColor": "yellow"
+    }
+  },
+  "numbers": {
+    "name": {
+      "ru": "числа"
+    },
+    "style": {
+      "icon": "numbers"
+    }
+  },
+  "post": {
+    "name": {
+      "ru": "почта"
+    },
+    "style": {
+      "icon": "mail"
+    }
+  },
+  "sizes": {
+    "name": {
+      "ru": "размеры"
+    },
+    "style": {
+      "icon": "open_in_full"
+    }
+  },
+  "shop": {
+    "name": {
+      "ru": "магазин"
+    },
+    "style": {
+      "icon": "shopping_cart",
+      "bgColor": "pink"
+    }
+  },
+  "time": {
+    "name": {
+      "ru": "время"
+    },
+    "style": {
+      "icon": "schedule"
+    }
+  },
+  "transport": {
+    "name": {
+      "ru": "транспорт"
+    },
+    "style": {
+      "icon": "directions_bus"
+    }
+  },
+  "veggies": {
+    "name": {
+      "ru": "овощи"
+    }
+  }
+}
