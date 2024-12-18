@@ -1,4 +1,13 @@
 {
+  "bank": {
+    "name": {
+      "ru": "банк"
+    },
+    "style": {
+      "icon": "account_balance",
+      "bgColor": "green"
+    }
+  },
   "cafe": {
     "name": {
       "ru": "кафе"
