@@ -1,12 +1,15 @@
 {
   "alarm": {
     "topic": "colors",
+    "order": -1,
     "phrase": {
       "ru": { "W": "Сигнал тревоги" },
       "en": { "W": "Alarm" },
       "he": { "W": "צבע אדום", "T": "Цева адом" }
     },
-    "comment": "Буквально: красный цвет",
+    "comment": {
+      "he": "Буквально: красный цвет"
+    },
     "style": {
       "color": "red-10",
       "icon": "warning"
@@ -14,6 +17,7 @@
   },
   "color": {
     "topic": "colors",
+    "order": -1,
     "gender": {
       "ru": "F",
       "he": "F"
@@ -37,7 +41,6 @@
 
   "gold": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "gold", "T": "ɡōld" },
       "S": {
@@ -66,7 +69,6 @@
   },
   "silver": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "silver", "T": "silvər" },
       "S": {
@@ -85,7 +87,6 @@
 
   "red": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "red", "T": "rɛd" },
       "S": {
@@ -114,7 +115,6 @@
   },
   "blue": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "blue", "T": "bluː" },
       "S": {
@@ -143,7 +143,6 @@
   },
   "green": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "green", "T": "ɡriːn" },
       "S": {
@@ -172,7 +171,6 @@
   },
   "yellow": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "yellow", "T": "jɛloʊ" },
       "S": {
@@ -201,7 +199,6 @@
   },
   "black": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "black", "T": "blæk" },
       "S": {
@@ -229,7 +226,6 @@
     }
   },
   "white": {
-    "order": 10,
     "topic": "colors",
     "phrase": {
       "en": { "W": "white", "T": "waɪt" },
@@ -259,7 +255,6 @@
   },
   "orange": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "orange", "T": "ɔːrɪndʒ" },
       "S": {
@@ -288,7 +283,6 @@
   },
   "purple": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "purple", "T": "pɜːrpl" },
       "ru": { "W": "пурпурный" },
@@ -300,7 +294,6 @@
   },
   "deep-purple": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "deep purple", "T": "dēp pɜːrpl" },
       "S": {
@@ -329,7 +322,6 @@
   },
   "grey": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "grey", "T": "ɡreɪ" },
       "S": {
@@ -358,7 +350,6 @@
   },
   "brown": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "brown", "T": "braʊn" },
       "S": {
@@ -387,7 +378,6 @@
   },
   "teal": {
     "topic": "colors",
-    "order": 10,
     "phrase": {
       "en": { "W": "teal", "T": "tiːl" },
       "ru": { "W": "бирюзовый" },
