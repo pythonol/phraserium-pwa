@@ -1,0 +1,625 @@
+{
+  "vegetable": {
+    "topic": "veggies",
+    "order": -1000,
+    "style": {
+      "bgColor": "green"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "овощ" },
+        "en": { "W": "vegetable", "T": "ˈvedʒ.tə.bəl" },
+        "he": { "W": "יָרָק", "T": "ярак" }
+      },
+      "P": {
+        "ru": { "W": "овощи" },
+        "en": { "W": "vegetables", "T": "ˈvedʒ.tə.bəlz" },
+        "he": { "W": "יְרָקוֹת", "T": "йеракот" }
+      }
+    }
+  },
+
+  "eggplant": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/eggplant.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "баклажан" },
+        "en": { "W": "eggplant", "T": "ˈɛɡ.plænt" },
+        "he": { "W": "חָצִיל", "T": "хациль" }
+      },
+      "P": {
+        "ru": { "W": "баклажаны" },
+        "en": { "W": "eggplants", "T": "ˈɛɡ.plænts" },
+        "he": { "W": "חֲצִילִים", "T": "хацилим" }
+      }
+    }
+  },
+  "sweet_potato": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/sweet_potato.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "батат (сладкий картофель)" },
+        "en": { "W": "sweet potato", "T": "ˌswiːt pəˈteɪ.təʊ" },
+        "he": { "W": "בָּטָטָה", "T": "батата" }
+      },
+      "P": {
+        "ru": { "W": "бататы" },
+        "en": { "W": "sweet potatoes", "T": "ˌswiːt pəˈteɪ.təʊz" },
+        "he": { "W": "בָּטָטוֹת", "T": "бататот" }
+      }
+    }
+  },
+  "broccoli": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/broccoli.webp"
+    },
+    "gender": {
+      "ru": "N",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "брокколи" },
+      "en": { "W": "broccoli", "T": "ˈbrɒk.əl.i" },
+      "he": { "W": "בְּרוֹקוֹלִי", "T": "броколи" }
+    }
+  },
+  "rutabaga": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/rutabaga.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "брюква" },
+      "en": { "W": "rutabaga", "T": "ˌruː.təˈbeɪ.ɡə" },
+      "he": { "W": "לֶפֶת", "T": "лефет" }
+    }
+  },
+  "pea": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/pea.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "горох" },
+      "en": { "W": "pea", "T": "piː" },
+      "he": { "W": "אֶפֶנֶת", "T": "эфенет" }
+    }
+  },
+  "mushroom": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/mushroom.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "гриб" },
+        "en": { "W": "mushroom", "T": "ˈmʌʃ.ruːm" },
+        "he": { "W": "פִּטְרִיָה", "T": "питрия" }
+      },
+      "P": {
+        "ru": { "W": "грибы" },
+        "en": { "W": "mushrooms", "T": "ˈmʌʃ.ruːmz" },
+        "he": { "W": "פִּטְרִיוֹת", "T": "питриёт" }
+      }
+    }
+  },
+  "zucchini": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/zucchini.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "кабачок" },
+        "en": { "W": "zucchini", "T": "zuˈkiː.ni" },
+        "he": { "W": "קוּשׁוּ", "T": "кушу" }
+      },
+      "P": {
+        "ru": { "W": "кабачки" },
+        "en": { "W": "zucchinis", "T": "zuˈkiː.niz" },
+        "he": { "W": "קוּשׁוּיִים", "T": "кушуим" }
+      }
+    }
+  },
+  "cabbage": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/cabbage.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "капуста белокочанная" },
+      "en": { "W": "cabbage", "T": "ˈkæb.ɪdʒ" },
+      "he": { "W": "כְּרוּב לָבָן", "T": "крув лаван" }
+    }
+  },
+  "cauliflower": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/cauliflower.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "капуста цветная" },
+      "en": { "W": "cauliflower", "T": "ˈkɒl.ɪ.flaʊ.ər" },
+      "he": { "W": "כְּרוּבִית", "T": "крувит" }
+    }
+  },
+  "cilantro": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/cilantro.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "кинза" },
+      "en": { "W": "cilantro", "T": "sɪˈlæn.trəʊ" },
+      "he": { "W": "כּוֹסְבָּרָה", "T": "косбара" }
+    }
+  },
+  "onion": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/onion.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "лук" },
+      "S": {
+        "en": { "W": "onion", "T": "ˈʌn.jən" },
+        "he": { "W": "בָּצָל", "T": "бацаль" }
+      },
+      "P": {
+        "en": { "W": "onions", "T": "ˈʌn.jənz" },
+        "he": { "W": "בְּצָלִים", "T": "бцалим" }
+      }
+    }
+  },
+  "carrot": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/carrot.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "морковь" },
+        "en": { "W": "carrot", "T": "ˈkær.ət" },
+        "he": { "W": "גֶּזֶר", "T": "гезер" }
+      },
+      "P": {
+        "ru": { "W": "моркови" },
+        "en": { "W": "carrots", "T": "ˈkær.əts" },
+        "he": { "W": "גְּזָרִים", "T": "гзарим" }
+      }
+    }
+  },
+  "cucumber": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/cucumber.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "огурец" },
+        "en": { "W": "cucumber", "T": "ˈkjuː.kʌm.bər" },
+        "he": { "W": "מְלָפְפוֹן", "T": "мелафефон" }
+      },
+      "P": {
+        "ru": { "W": "огурцы" },
+        "en": { "W": "cucumbers", "T": "ˈkjuː.kʌm.bərz" },
+        "he": { "W": "מְלָפְפוֹנִים", "T": "мелафефоним" }
+      }
+    }
+  },
+  "olive": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/olive.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "оливка" },
+        "en": { "W": "olive", "T": "ˈɒl.ɪv" },
+        "he": { "W": "זַיִת", "T": "заит" }
+      },
+      "P": {
+        "ru": { "W": "оливки" },
+        "en": { "W": "olives", "T": "ˈɒl.ɪvz" },
+        "he": { "W": "זֵיתִים", "T": "зетим" }
+      }
+    }
+  },
+  "hot_pepper": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/hot_pepper.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "перец острый" },
+        "en": { "W": "hot pepper", "T": "hɒt ˈpep.ər" },
+        "he": { "W": "פִּלְפֵּל חָרִיף", "T": "пильпель хариф" }
+      },
+      "P": {
+        "ru": { "W": "перцы острые" },
+        "en": { "W": "hot peppers", "T": "hɒt ˈpep.ərz" },
+        "he": { "W": "פִּלְפֵּלִים חֲרִיפִים", "T": "пильпелим харифим" }
+      }
+    }
+  },
+  "bell_pepper": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/bell_pepper.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "перец сладкий" },
+        "en": { "W": "bell pepper", "T": "bel ˈpep.ər" },
+        "he": { "W": "פִּלְפֵּל מָתוֹק", "T": "пильпель маток" }
+      },
+      "P": {
+        "ru": { "W": "перцы сладкие" },
+        "en": { "W": "bell peppers", "T": "bel ˈpep.ərz" },
+        "he": { "W": "פִּלְפֵּלִים מְתוּקִים", "T": "пильпелим метуким" }
+      }
+    }
+  },
+  "parsley": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/parsley.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "петрушка" },
+      "en": { "W": "parsley", "T": "ˈpɑːs.li" },
+      "he": { "W": "פֶּטְרוֹזִילְיָה", "T": "петрозилья" }
+    }
+  },
+  "tomato": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/tomato.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "помидор" },
+        "en": { "W": "tomato", "T": "təˈmɑː.təʊ" },
+        "he": { "W": "עַגְבָנִיָּה", "T": "агвания" }
+      },
+      "P": {
+        "ru": { "W": "помидоры" },
+        "en": { "W": "tomatoes", "T": "təˈmɑː.təʊz" },
+        "he": { "W": "עַגְבָנִיּוֹת", "T": "агванийот" }
+      }
+    }
+  },
+  "radish": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/radish.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "редис" },
+        "en": { "W": "radish", "T": "ˈræd.ɪʃ" },
+        "he": { "W": "צְנוֹן", "T": "цнон" }
+      },
+      "P": {
+        "ru": { "W": "редисы" },
+        "en": { "W": "radishes", "T": "ˈræd.ɪʃɪz" },
+        "he": { "W": "צְנוֹנִים", "T": "цноним" }
+      }
+    }
+  },
+  "turnip": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/turnip.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "репа" },
+        "en": { "W": "turnip", "T": "ˈtɜː.nɪp" },
+        "he": { "W": "לֶפֶת", "T": "лефет" }
+      },
+      "P": {
+        "ru": { "W": "репы" },
+        "en": { "W": "turnips", "T": "ˈtɜː.nɪps" },
+        "he": { "W": "לְפוֹתוֹת", "T": "лефотот" }
+      }
+    }
+  },
+  "arugula": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/arugula.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "руккола" },
+      "en": { "W": "arugula", "T": "əˈruː.ɡə.lə" },
+      "he": { "W": "רוֹקֵט", "T": "рокет" }
+    }
+  },
+  "beet": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/beet.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "свёкла" },
+      "en": { "W": "beet", "T": "biːt" },
+      "he": { "W": "סֶלֶק", "T": "селек" }
+    }
+  },
+  "celery": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/celery.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "сельдерей" },
+      "en": { "W": "celery", "T": "ˈsel.ər.i" },
+      "he": { "W": "סֶלֶרִי", "T": "селери" }
+    }
+  },
+  "pumpkin": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/pumpkin.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "тыква" },
+        "en": { "W": "pumpkin", "T": "ˈpʌmp.kɪn" },
+        "he": { "W": "דְּלַעַת", "T": "длаат" }
+      },
+      "P": {
+        "ru": { "W": "тыквы" },
+        "en": { "W": "pumpkins", "T": "ˈpʌmp.kɪnz" },
+        "he": { "W": "דְּלָעוֹת", "T": "длаот" }
+      }
+    }
+  },
+  "bean": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/bean.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "фасоль" },
+      "en": { "W": "beans", "T": "biːnz" },
+      "he": { "W": "שְׁעוּעִית", "T": "шеуит" }
+    }
+  },
+  "green_bean": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/green_bean.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "фасоль стручковая" },
+      "en": { "W": "green beans", "T": "ɡriːn biːnz" },
+      "he": { "W": "שְׁעוּעִית יְרוּקָה", "T": "шеуит ерука" }
+    }
+  },
+  "fennel": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/fennel.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "фенхель" },
+      "en": { "W": "fennel", "T": "ˈfen.əl" },
+      "he": { "W": "שָׁמָר", "T": "шамар" }
+    }
+  },
+  "horseradish": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/horseradish.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "хрен" },
+      "en": { "W": "horseradish", "T": "ˈhɔːsˌræd.ɪʃ" },
+      "he": { "W": "חַזֶּרֶת", "T": "хазерет" }
+    }
+  },
+  "garlic": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/garlic.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "чеснок" },
+      "en": { "W": "garlic", "T": "ˈɡɑːr.lɪk" },
+      "he": { "W": "שׁוּם", "T": "шум" }
+    }
+  },
+  "spinach": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/spinach.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "шпинат" },
+      "en": { "W": "spinach", "T": "ˈspɪn.ɪtʃ" },
+      "he": { "W": "תַּרְדֵּה", "T": "тарде" }
+    }
+  },
+  "jalapeno": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/jalapeno.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "халапеньо" },
+      "en": { "W": "jalapeno", "T": "ˌhɑː.ləˈpeɪn.joʊ" },
+      "he": { "W": "חַלָפִּינְיוֹ", "T": "халапиньо" }
+    }
+  },
+  "ginger": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/ginger.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "имбирь" },
+      "en": { "W": "ginger", "T": "ˈdʒɪn.dʒər" },
+      "he": { "W": "זַנְגְּבִיל", "T": "зангавиль" }
+    }
+  },
+  "potato": {
+    "topic": "veggies",
+    "style": {
+      "img": "images/veggies/potato.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "картофель" },
+      "he": { "W": "תַּפּוּחַ אֲדָמָה", "T": "тапуах адама" },
+      "S": {
+        "en": { "W": "potato", "T": "pəˈteɪ.t̬oʊ" }
+      },
+      "P": {
+        "en": { "W": "potatoes", "T": "pəˈteɪ.t̬oʊz" }
+      }
+    }
+  }
+}
+
+
