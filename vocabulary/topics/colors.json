@@ -1,4 +1,29 @@
 {
+  "color": {
+    "topic": "colors",
+    "order": -1000,
+    "style": {
+      "icon": "opacity",
+      "bgColor": "purple"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "en": { "W": "color", "T": "kʌl.ɚ" },
+        "ru": { "W": "цвет" },
+        "he": { "W": "צֶבַע", "T": "цэва" }
+      },
+      "P": {
+        "en": { "W": "colors", "T": "kʌl.ɚs" },
+        "ru": { "W": "цвета" },
+        "he": { "W": "צְבָעִים", "T": "цваим" }
+      }
+    }
+  },
+
   "alarm": {
     "topic": "colors",
     "order": -1,
@@ -13,29 +38,6 @@
     "style": {
       "color": "red-10",
       "icon": "warning"
-    }
-  },
-  "color": {
-    "topic": "colors",
-    "order": -1,
-    "gender": {
-      "ru": "F",
-      "he": "F"
-    },
-    "phrase": {
-      "S": {
-        "en": { "W": "color" },
-        "ru": { "W": "цвет" },
-        "he": { "W": "צֶבַע", "T": "цэва" }
-      },
-      "P": {
-        "en": { "W": "colors" },
-        "ru": { "W": "цвета" },
-        "he": { "W": "צְבָעִים", "T": "цваим" }
-      }
-    },
-    "style": {
-      "icon": "opacity"
     }
   },
 

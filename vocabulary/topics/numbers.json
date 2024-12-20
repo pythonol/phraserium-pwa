@@ -1,4 +1,29 @@
 {
+  "number": {
+    "topic": "numbers",
+    "order": -1000,
+    "style": {
+      "icon": "tag",
+      "bgColor": "green"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "число, номер" },
+        "en": { "W": "number", "T": "nʌm.bɚ" },
+        "he": { "W": "מִספָּר", "T": "миспа́р" }
+      },
+      "P": {
+        "ru": { "W": "числа, номера" },
+        "en": { "W": "numbers", "T": "nʌm.bɚs" },
+        "he": { "W": "מִסְפָּרִים", "T": "миспари́м" }
+      }
+    }
+  },
+
   "Cardinal numbers": {
     "topic": "numbers",
     "order": -100,
@@ -6,15 +31,6 @@
       "ru": { "W": "Количественные числительные" },
       "en": { "W": "Cardinal numbers" },
       "he": { "W": "מִספָּר יְסוֹדִי", "T": "миспа́р йэсоди́" }
-    }
-  },
-  "number": {
-    "topic": "numbers",
-    "order": -100,
-    "phrase": {
-      "ru": { "W": "число, номер" },
-      "en": { "W": "number" },
-      "he": { "W": "מִספָּר", "T": "миспа́р" }
     }
   },
 

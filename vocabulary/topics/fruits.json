@@ -1,0 +1,222 @@
+{
+  "apple": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/apple.png"
+    },
+    "gender": {
+      "ru": "N",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "яблоко" },
+        "en": { "W": "apple", "T": "æpəl" },
+        "he": { "W": "תפוח", "T": "тапуах" }
+      },
+      "P": {
+        "ru": { "W": "яблоки" },
+        "en": { "W": "apples", "T": "æpəls" },
+        "he": { "W": "תפוחים", "T": "тапухим" }
+      }
+    }
+  },
+  "pear": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/pear.png"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "груша" },
+        "en": { "W": "pear", "T": "pɛər" },
+        "he": { "W": "אגס", "T": "агас" }
+      },
+      "P": {
+        "ru": { "W": "груши" },
+        "en": { "W": "pears", "T": "pɛərz" },
+        "he": { "W": "אגסים", "T": "агасим" }
+      }
+    }
+  },
+  "orange": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/orange.png"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "апельсин" },
+        "en": { "W": "orange", "T": "ɔːrɪndʒ" },
+        "he": { "W": "תפוז", "T": "тапуз" }
+      },
+      "P": {
+        "ru": { "W": "апельсины" },
+        "en": { "W": "oranges", "T": "ɔːrɪndʒɪz" },
+        "he": { "W": "תפוזים", "T": "тапузим" }
+      }
+    }
+  },
+  "tangerine": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/tangerine.png"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "мандарин" },
+        "en": { "W": "tangerine", "T": "tændʒəriːn" },
+        "he": { "W": "מנדרינה", "T": "мандрина" }
+      },
+      "P": {
+        "ru": { "W": "мандарины" },
+        "en": { "W": "tangerines", "T": "tændʒəriːnz" },
+        "he": { "W": "מנדרינות", "T": "мандринот" }
+      }
+    }
+  },
+  "clementine": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/clementine.png"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "клементин" },
+        "en": { "W": "clementine", "T": "klɛmənˌtaɪn" },
+        "he": { "W": "קלמנטינה", "T": "клемантина" }
+      },
+      "P": {
+        "ru": { "W": "клементины" },
+        "en": { "W": "clementines", "T": "klɛmənˌtaɪnz" },
+        "he": { "W": "קלמנטינות", "T": "клемантинут" }
+      }
+    }
+  },
+  "banana": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/banana.png"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "банан" },
+        "en": { "W": "banana", "T": "bəˈnænə" },
+        "he": { "W": "בננה", "T": "банана" }
+      },
+      "P": {
+        "ru": { "W": "бананы" },
+        "en": { "W": "bananas", "T": "bəˈnænəz" },
+        "he": { "W": "בננות", "T": "бананот" }
+      }
+    }
+  },
+  "persimmon": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/persimmon.png"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "хурма" },
+        "en": { "W": "persimmon", "T": "pərˈsɪmən" },
+        "he": { "W": "אפרסמון", "T": "афарсамон" }
+      },
+      "P": {
+        "ru": { "W": "хурмы" },
+        "en": { "W": "persimmons", "T": "pərˈsɪmənz" },
+        "he": { "W": "אפרסמונים", "T": "афарсамоним" }
+      }
+    }
+  },
+  "peach": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/peach.png"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "персик" },
+        "en": { "W": "peach", "T": "piːtʃ" },
+        "he": { "W": "אפרסק", "T": "афарсек" }
+      },
+      "P": {
+        "ru": { "W": "персики" },
+        "en": { "W": "peaches", "T": "piːtʃɪz" },
+        "he": { "W": "אפרסקים", "T": "афарсаким" }
+      }
+    }
+  },
+  "cherry": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/cherry.png"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "вишня" },
+        "en": { "W": "cherry", "T": "ˈtʃɛri" },
+        "he": { "W": "דובדבן", "T": "дувдеван" }
+      },
+      "P": {
+        "ru": { "W": "вишни" },
+        "en": { "W": "cherries", "T": "ˈtʃɛriz" },
+        "he": { "W": "דובדבנים", "T": "дувдеваним" }
+      }
+    }
+  },
+  "sweet_cherry": {
+    "topic": "fruits",
+    "style": {
+      "img": "img/fruits/sweet_cherry.png"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "черешня" },
+        "en": { "W": "sweet cherry", "T": "swiːt ˈtʃɛri" },
+        "he": { "W": "דובדבן מתוק", "T": "дувдеван метук" }
+      },
+      "P": {
+        "ru": { "W": "черешни" },
+        "en": { "W": "sweet cherries", "T": "swiːt ˈtʃɛriz" },
+        "he": { "W": "דובדבנים מתוקים", "T": "дувдеваним метуким" }
+      }
+    }
+  }
+}

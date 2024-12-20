@@ -8,6 +8,14 @@
       "bgColor": "green"
     }
   },
+  "berries": {
+    "name": {
+      "ru": "ягоды"
+    },
+    "style": {
+      "bgColor": "red"
+    }
+  },
   "cafe": {
     "name": {
       "ru": "кафе"
