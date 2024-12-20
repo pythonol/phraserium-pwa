@@ -4,16 +4,12 @@
       "ru": "банк"
     },
     "style": {
-      "icon": "account_balance",
-      "bgColor": "green"
+      "icon": "account_balance"
     }
   },
   "berries": {
     "name": {
       "ru": "ягоды"
-    },
-    "style": {
-      "bgColor": "red"
     }
   },
   "cafe": {
@@ -21,8 +17,7 @@
       "ru": "кафе"
     },
     "style": {
-      "icon": "local_cafe",
-      "bgColor": "brown"
+      "icon": "local_cafe"
     }
   },
   "car": {
@@ -30,8 +25,7 @@
       "ru": "машина"
     },
     "style": {
-      "icon": "drive_eta",
-      "bgColor": "blue"
+      "icon": "drive_eta"
     }
   },
   "clothes": {
@@ -132,8 +126,7 @@
       "ru": "магазин"
     },
     "style": {
-      "icon": "shopping_cart",
-      "bgColor": "pink"
+      "icon": "shopping_cart"
     }
   },
   "time": {
