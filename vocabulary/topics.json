@@ -63,8 +63,7 @@
       "ru": "врач"
     },
     "style": {
-      "icon": "medication",
-      "bgColor": "red"
+      "icon": "medication"
     }
   },
   "figures": {
@@ -83,6 +82,14 @@
   "fruits": {
     "name": {
       "ru": "фрукты"
+    }
+  },
+  "home": {
+    "name": {
+      "ru": "дом"
+    },
+    "style": {
+      "icon": "home"
     }
   },
   "misc": {
@@ -127,6 +134,14 @@
     },
     "style": {
       "icon": "shopping_cart"
+    }
+  },
+  "sport": {
+    "name": {
+      "ru": "спорт"
+    },
+    "style": {
+      "icon": "sports_football"
     }
   },
   "time": {
