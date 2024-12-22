@@ -1,10 +1,7 @@
 {
   "fruit": {
     "topic": "fruits",
-    "order": -1000,
-    "style": {
-      "bgColor": "orange"
-    },
+    "order": -1,
     "gender": {
       "ru": "M",
       "he": "M"
@@ -20,6 +17,28 @@
         "en": { "W": "fruits", "T": "fruːts" },
         "he": { "W": "פֵּרוֹת", "T": "перот" }
       }
+    }
+  },
+
+  "fruit-1": {
+    "topic": "fruits",
+    "order": -1,
+    "phrase": {
+      "ru": { "W": "спелый" }
+    }
+  },
+  "fruit-2": {
+    "topic": "fruits",
+    "order": -1,
+    "phrase": {
+      "ru": { "W": "гнилой" }
+    }
+  },
+  "stale": {
+    "topic": "fruits",
+    "order": -1,
+    "phrase": {
+      "ru": { "W": "несвежий" }
     }
   },
 

@@ -1,10 +1,9 @@
 {
   "color": {
     "topic": "colors",
-    "order": -1000,
+    "order": -1,
     "style": {
-      "icon": "opacity",
-      "bgColor": "purple"
+      "icon": "opacity"
     },
     "gender": {
       "ru": "M",
