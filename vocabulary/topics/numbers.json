@@ -1,11 +1,15 @@
 {
-  "number": {
+  "numbers_info": {
     "topic": "numbers",
     "order": -1000,
-    "style": {
-      "icon": "tag",
-      "bgColor": "green"
-    },
+    "comment": {
+      "he": "Числительные ЖЕНСКОГО рода используются для абстрактного счета (без наименования предметов счёта, в том числе в таблицах умножения), а также при обозначении любых номеров (телефона, паспорта, дома, автобуса и т.п.). В остальных случаях род числительного должен согласовываться с родом перечисляемых предметов. Числительные «1» стоят ПОСЛЕ наименования считаемого предмета. Начиная с «2», числительные, как и в русском языке, стоят ПЕРЕД существительным, согласуясь с ним по роду."
+    }
+  },
+
+  "number": {
+    "topic": "numbers",
+    "order": -100,
     "gender": {
       "ru": "M",
       "he": "M"
@@ -23,7 +27,6 @@
       }
     }
   },
-
   "Cardinal numbers": {
     "topic": "numbers",
     "order": -100,
@@ -868,15 +871,6 @@
       "he": { "W": "2'000'000 שְׁנֵי מִילְיוֹנִים", "T": "шнэй мильйо́н" }
     }
   },
-  "3000000": {
-    "topic": "numbers",
-    "order": 3000000,
-    "phrase": {
-      "en": { "W": "3'000'000 three million", "T": "θriː ˈmɪljən" },
-      "ru": { "W": "3'000'000 три миллиона" },
-      "he": { "W": "3'000'000 שְׁלוֹשָׁה מִילְיוֹנִים", "T": "шлоша́ мильйо́н" }
-    }
-  },
 
   "1000000000": {
     "topic": "numbers",
@@ -887,28 +881,13 @@
       "he": { "W": "1'000'000'000 מִילְיַארְד", "T": "милья́рд" }
     }
   },
-  "2000000000": {
-    "topic": "numbers",
-    "order": 2000000000,
-    "phrase": {
-      "en": { "W": "2'000'000'000 two billion", "T": "tuː ˈbɪljən" },
-      "ru": { "W": "2'000'000'000 два миллиарда" },
-      "he": { "W": "2'000'000'000 שְׁנֵי מִילְיַארְדִים", "T": "шнэй милья́рд" }
-    }
-  },
-  "3000000000": {
-    "topic": "numbers",
-    "order": 3000000000,
-    "phrase": {
-      "en": { "W": "3'000'000'000 three billion", "T": "θriː ˈbɪljən" },
-      "ru": { "W": "3'000'000'000 три миллиарда" },
-      "he": { "W": "3'000'000'000 שְׁלוֹשָׁה מִילְיַארְדִים", "T": "шлоша́ милья́рд" }
-    }
-  },
 
   "25": {
     "topic": "numbers",
     "order": 25,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "25 twenty-five", "T": "ˈtwɛnti faɪv" },
       "ru": { "W": "25 двадцать пять" },
@@ -918,6 +897,9 @@
   "150": {
     "topic": "numbers",
     "order": 150,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "150 one hundred fifty", "T": "wʌn ˈhʌndrəd ˈfɪfti" },
       "ru": { "W": "150 сто пятьдесят" },
@@ -927,6 +909,9 @@
   "256": {
     "topic": "numbers",
     "order": 256,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "256 two hundred fifty-six", "T": "tuː ˈhʌndrəd ˈfɪfti sɪks" },
       "ru": { "W": "256 двести пятьдесят шесть" },
@@ -936,6 +921,9 @@
   "345": {
     "topic": "numbers",
     "order": 345,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "345 three hundred forty-five", "T": "θriː ˈhʌndrəd ˈfɔːrti faɪv" },
       "ru": { "W": "345 триста сорок пять" },
@@ -945,6 +933,9 @@
   "1024": {
     "topic": "numbers",
     "order": 1024,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "1024 one thousand twenty-four", "T": "wʌn ˈθaʊzənd ˈtwɛnti fɔːr" },
       "ru": { "W": "1024 одна тысяча двадцать четыре" },
@@ -954,6 +945,9 @@
   "1500": {
     "topic": "numbers",
     "order": 1500,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "1500 one thousand five hundred", "T": "wʌn ˈθaʊzənd faɪv ˈhʌndrəd" },
       "ru": { "W": "1500 тысяча пятьсот" },
@@ -963,6 +957,9 @@
   "3456": {
     "topic": "numbers",
     "order": 3450,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "3456 three thousand four hundred fifty six", "T": "θriː ˈθaʊzənd fɔːr ˈhʌndrəd ˈfɪfti sɪks" },
       "ru": { "W": "3456 три тысячи четыреста пятьдесят шесть" },
@@ -972,6 +969,9 @@
   "11500": {
     "topic": "numbers",
     "order": 11500,
+    "style": {
+      "italic": true
+    },
     "comment": {
       "he": "Первым словом будет числительное муж. рода, обозначающее количество тысяч. Cоюз וְ ставится только перед единицами, которые соотносятся с родом считаемого."
     },
@@ -984,6 +984,9 @@
   "22000": {
     "topic": "numbers",
     "order": 22000,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "22000 twenty-two thousand", "T": "twɛnti tuː ˈθaʊzənd" },
       "ru": { "W": "22000 двадцать две тысячи" },
@@ -993,6 +996,9 @@
   "33000": {
     "topic": "numbers",
     "order": 33000,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "33000 thirty-three thousand", "T": "ˈθɜːrti θriː ˈθaʊzənd" },
       "ru": { "W": "33000 тридцать три тысячи" },
@@ -1002,6 +1008,9 @@
   "256500": {
     "topic": "numbers",
     "order": 256500,
+    "style": {
+      "italic": true
+    },
     "phrase": {
       "en": { "W": "256500 two hundred fifty-six thousand five hundred", "T": "tuː ˈhʌndrəd ˈfɪfti sɪks ˈθaʊzənd faɪv ˈhʌndrəd" },
       "ru": { "W": "256500 двести пятьдесят шесть тысяч пятьсот" },
