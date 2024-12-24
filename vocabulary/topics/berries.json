@@ -1,10 +1,7 @@
 {
   "berry": {
     "topic": "berries",
-    "order": -10,
-    "style": {
-      "bgColor": "red"
-    },
+    "order": -1,
     "gender": {
       "ru": "F",
       "he": "F"

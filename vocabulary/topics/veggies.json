@@ -1,10 +1,7 @@
 {
   "vegetable": {
     "topic": "veggies",
-    "order": -1000,
-    "style": {
-      "bgColor": "green"
-    },
+    "order": -1,
     "gender": {
       "ru": "M",
       "he": "M"
