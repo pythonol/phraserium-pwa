@@ -57,8 +57,7 @@
       "ru": "направл."
     },
     "style": {
-      "icon": "navigation",
-      "bgColor": "teal"
+      "icon": "navigation"
     }
   },
   "doctor": {
@@ -103,8 +102,7 @@
       "ru": "разное"
     },
     "style": {
-      "icon": "bookmark",
-      "bgColor": "yellow"
+      "icon": "bookmark"
     }
   },
   "numbers": {

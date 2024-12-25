@@ -579,12 +579,21 @@
     }
   },
 
-  "20": {
+  "tens": {
     "topic": "numbers",
     "order": 220,
     "style": {
       "bold": true
     },
+    "phrase": {
+      "en": { "W": "tens", "T": "tens" },
+      "ru": { "W": "десятки" },
+      "he": { "W": "עֲשָׂרוֹת", "T": "асарот" }
+    }
+  },
+  "20": {
+    "topic": "numbers",
+    "order": 222,
     "phrase": {
       "en": { "W": "20 twenty", "T": "ˈtwɛnti" },
       "ru": { "W": "20 двадцать" },
@@ -672,12 +681,21 @@
     }
   },
 
-  "100": {
+  "hundreds": {
     "topic": "numbers",
-    "order": 310,
+    "order": 300,
     "style": {
       "bold": true
     },
+    "phrase": {
+      "en": { "W": "hundreds", "T": "həndrədz" },
+      "ru": { "W": "сотни" },
+      "he": { "W": "מֵאוֹת", "T": "мео́т" }
+    }
+  },
+  "100": {
+    "topic": "numbers",
+    "order": 310,
     "phrase": {
       "en": { "W": "100 one hundred", "T": "wən həndrəd" },
       "ru": { "W": "100 сто" },
@@ -769,12 +787,21 @@
     }
   },
 
-  "1000": {
+  "thousands": {
     "topic": "numbers",
-    "order": 410,
+    "order": 400,
     "style": {
       "bold": true
     },
+    "phrase": {
+      "en": { "W": "thousands", "T": "θaʊzəndz" },
+      "ru": { "W": "тысячи" },
+      "he": { "W": "אֲלָפִים", "T": "алафи́м" }
+    }
+  },
+  "1000": {
+    "topic": "numbers",
+    "order": 410,
     "gender": {
       "ru": "F",
       "he": "M"
@@ -860,9 +887,6 @@
   "10000": {
     "topic": "numbers",
     "order": 510,
-    "style": {
-      "bold": true
-    },
     "phrase": {
       "en": { "W": "10'000 ten thousand", "T": "tɛn ˈθaʊzənd" },
       "ru": { "W": "10'000 десять тысяч" },
@@ -875,7 +899,7 @@
     "phrase": {
       "en": { "W": "20'000 twenty thousand", "T": "ˈtwɛnti ˈθaʊzənd" },
       "ru": { "W": "20'000 двадцать тысяч" },
-      "he": { "W": "20'000 עֶשְׂרִים אֲלָפִים", "T": "эсри́м алафи́м" }
+      "he": { "W": "20'000 עֶשְׂרִים אָלֶף", "T": "эсри́м элеф" }
     }
   },
   "100000": {
