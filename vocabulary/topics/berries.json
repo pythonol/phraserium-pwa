@@ -1,0 +1,324 @@
+{
+  "berry": {
+    "topic": "berries",
+    "order": -1,
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "ягода" },
+        "en": { "W": "berry", "T": "ber.i" },
+        "he": { "W": "פְּרִי יַעַר", "T": "при яар" }
+      },
+      "P": {
+        "ru": { "W": "ягоды" },
+        "en": { "W": "berries", "T": "ber.iz" },
+        "he": { "W": "פירות יַעַר", "T": "перот яар" }
+      }
+    }
+  },
+
+  "barberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/barberry.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "барбарис" },
+      "en": { "W": "barberry", "T": "ˈbɑːr.bər.i" },
+      "he": { "W": "בַּרְבֶּרִיס", "T": "барберис" }
+    }
+  },
+  "lingonberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/lingonberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "брусника" },
+      "en": { "W": "lingonberry", "T": "ˈlɪŋ.ɡənˌber.i" },
+      "he": { "W": "חֲמוּצִית", "T": "хамуцит" }
+    }
+  },
+  "blueberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/blueberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "голубика" },
+      "en": { "W": "blueberry", "T": "ˈbluːˌber.i" },
+      "he": { "W": "אוּכְמָנִית", "T": "ухманит" }
+    }
+  },
+  "blackberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/blackberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "ежевика" },
+      "en": { "W": "blackberry", "T": "ˈblækˌber.i" },
+      "he": { "W": "אוסנה", "T": "осна" }
+    }
+  },
+  "honeyberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/honeyberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "жимолость" },
+      "en": { "W": "honeyberry", "T": "ˈhʌn.iˌber.i" },
+      "he": { "W": "יערה כחולה", "T": "йаара кхула" }
+    }
+  },
+  "wild_strawberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/wild_strawberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "земляника" },
+      "en": { "W": "wild strawberry", "T": "waɪld ˈstrɔːˌber.i" },
+      "he": { "W": "תּוּת שָׂדֶה", "T": "тут саде" }
+    }
+  },
+  "cornel": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/cornel.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "кизил" },
+      "en": { "W": "cornel", "T": "ˈkɔːr.nl" },
+      "he": { "W": "קִיזִיל", "T": "кизил" }
+    }
+  },
+  "strawberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/strawberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "клубника" },
+      "en": { "W": "strawberry", "T": "ˈstrɑːˌber.i" },
+      "he": { "W": "תּוּת", "T": "тут" }
+    }
+  },
+  "cranberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/cranberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "клюква" },
+      "en": { "W": "cranberry", "T": "ˈkrænˌber.i" },
+      "he": { "W": "חמוציות", "T": "хамуциот" }
+    }
+  },
+  "gooseberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/gooseberry.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "крыжовник" },
+      "en": { "W": "gooseberry", "T": "ˈɡuːzˌber.i" },
+      "he": { "W": "דוּמדְמָנִית", "T": "думдеманит" }
+    }
+  },
+  "raspberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/raspberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "малина" },
+      "en": { "W": "raspberry", "T": "ˈræzˌber.i" },
+      "he": { "W": "פֶּטֶל", "T": "петел" }
+    }
+  },
+  "cloudberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/cloudberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "морошка" },
+      "en": { "W": "cloudberry", "T": "ˈklaʊdˌber.i" },
+      "he": { "W": "הקלאודברי", "T": "hаклаудабри" }
+    }
+  },
+  "sea_buckthorn": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/sea_buckthorn.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "облепиха" },
+      "en": { "W": "sea buckthorn", "T": "ˈsiː ˈbʌkˌθɔːrn" },
+      "he": { "W": "אשחר ים", "T": "эшхар ям" }
+    }
+  },
+  "rowan": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/rowan.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "рябина" },
+      "en": { "W": "rowan", "T": "ˈraʊ.ən" },
+      "he": { "W": "חוּזרָר", "T": "хузрар" }
+    }
+  },
+  "currant": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/currant.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "смородина" },
+      "en": { "W": "currant", "T": "ˈkɝː.ənt" },
+      "he": { "W": "דומדמניות", "T": "думдеманиот" }
+    }
+  },
+  "sloe": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/sloe.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "тёрн" },
+      "en": { "W": "sloe", "T": "sloʊ" },
+      "he": { "W": "שִׁזָף בַּר", "T": "шизаф бар" }
+    }
+  },
+  "bilberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/bilberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "черника" },
+      "en": { "W": "bilberry", "T": "ˈbɪlˌber.i" },
+      "he": { "W": "אוּכְמָנִית יַעַר", "T": "ухманит яар" }
+    }
+  },
+  "chokeberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/chokeberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "черноплодная рябина" },
+      "en": { "W": "chokeberry", "T": "ˈtʃoʊkˌber.i" },
+      "he": { "W": "ארוניה", "T": "арония" }
+    }
+  },
+  "mulberry": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/mulberry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "шелковица" },
+      "en": { "W": "mulberry", "T": "ˈmʌlˌber.i" },
+      "he": { "W": "תּוּת עֵץ", "T": "тут эц" }
+    }
+  },
+  "rosehip": {
+    "topic": "berries",
+    "style": {
+      "img": "images/berries/rosehip.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "шиповник" },
+      "en": { "W": "rosehip", "T": "ˈroʊzˌhɪp" },
+      "he": { "W": "רוז היפ", "T": "роз hип" }
+    }
+  }
+}
+

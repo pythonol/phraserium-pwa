@@ -1,0 +1,810 @@
+{
+  "fruit": {
+    "topic": "fruits",
+    "order": -1,
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "фрукт" },
+        "en": { "W": "fruit", "T": "fruːt" },
+        "he": { "W": "פְּרִי", "T": "при" }
+      },
+      "P": {
+        "ru": { "W": "фрукты" },
+        "en": { "W": "fruits", "T": "fruːts" },
+        "he": { "W": "פֵּרוֹת", "T": "перот" }
+      }
+    }
+  },
+
+  "fruit-1": {
+    "topic": "fruits",
+    "order": -1,
+    "phrase": {
+      "ru": { "W": "спелый" }
+    }
+  },
+  "fruit-2": {
+    "topic": "fruits",
+    "order": -1,
+    "phrase": {
+      "ru": { "W": "гнилой" }
+    }
+  },
+  "stale": {
+    "topic": "fruits",
+    "order": -1,
+    "phrase": {
+      "ru": { "W": "несвежий" }
+    }
+  },
+
+  "apricot": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/apricot.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "абрикос" },
+        "en": { "W": "apricot", "T": "ˈæp.rɪ.kɒt" },
+        "he": { "W": "מִשְׁמֵשׁ", "T": "мишмеш" }
+      },
+      "P": {
+        "ru": { "W": "абрикосы" },
+        "en": { "W": "apricots", "T": "ˈæp.rɪ.kɒts" },
+        "he": { "W": "מִשְׁמֵשִׁים", "T": "мишмешим" }
+      }
+    }
+  },
+  "avocado": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/avocado.webp"
+    },
+    "gender": {
+      "ru": "N",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "авокадо" },
+      "en": { "W": "avocado", "T": "ˌæv.əˈkɑː.doʊ" },
+      "he": { "W": "אָבוֹקָדוֹ", "T": "авокадо" }
+    }
+  },
+  "cherry_plum": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/cherry_plum.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "алыча" },
+      "en": { "W": "cherry plum", "T": "ˈtʃɛr.i ˌplʌm" },
+      "he": { "W": "שְׁזִיף בַּר", "T": "шезиф бар" }
+    }
+  },
+  "pineapple": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/pineapple.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "ананас" },
+        "en": { "W": "pineapple", "T": "ˈpaɪnˌæp.əl" },
+        "he": { "W": "אַנָנָס", "T": "ананас" }
+      },
+      "P": {
+        "ru": { "W": "ананасы" },
+        "en": { "W": "pineapples", "T": "ˈpaɪnˌæp.əlz" },
+        "he": { "W": "אַנָנָסִים", "T": "ананасим" }
+      }
+    }
+  },
+  "orange": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/orange.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "апельсин" },
+        "en": { "W": "orange", "T": "ˈɒr.ɪndʒ" },
+        "he": { "W": "תַּפּוּז", "T": "тапуз" }
+      },
+      "P": {
+        "ru": { "W": "апельсины" },
+        "en": { "W": "oranges", "T": "ˈɒr.ɪndʒ.ɪz" },
+        "he": { "W": "תַּפּוּזִים", "T": "тапузим" }
+      }
+    }
+  },
+  "watermelon": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/watermelon.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "арбуз" },
+        "en": { "W": "watermelon", "T": "ˈwɔː.təˌmel.ən" },
+        "he": { "W": "אֲבַטִּיחַ", "T": "аватиах" }
+      },
+      "P": {
+        "ru": { "W": "арбузы" },
+        "en": { "W": "watermelons", "T": "ˈwɔː.təˌmel.ənz" },
+        "he": { "W": "אֲבַטִּיחִים", "T": "аватиахим" }
+      }
+    }
+  },
+  "banana": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/banana.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "банан" },
+        "en": { "W": "banana", "T": "bəˈnæn.ə" },
+        "he": { "W": "בָּנָנָה", "T": "банана" }
+      },
+      "P": {
+        "ru": { "W": "бананы" },
+        "en": { "W": "bananas", "T": "bəˈnæn.əz" },
+        "he": { "W": "בָּנָנוֹת", "T": "бананот" }
+      }
+    }
+  },
+  "cherry": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/cherry.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "вишня" },
+        "en": { "W": "cherry", "T": "ˈtʃer.i" },
+        "he": { "W": "דֻּבְדְּבָן", "T": "дувдеван" }
+      },
+      "P": {
+        "ru": { "W": "вишни" },
+        "en": { "W": "cherries", "T": "ˈtʃer.iz" },
+        "he": { "W": "דֻּבְדְּבָנִים", "T": "дувдеваним" }
+      }
+    }
+  },
+  "pomegranate": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/pomegranate.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "гранат" },
+        "en": { "W": "pomegranate", "T": "ˈpɒm.ɪˌɡræn.ɪt" },
+        "he": { "W": "רימון", "T": "римон" }
+      },
+      "P": {
+        "ru": { "W": "гранаты" },
+        "en": { "W": "pomegranates", "T": "ˈpɒm.ɪˌɡræn.ɪts" },
+        "he": { "W": "רימונים", "T": "римоним" }
+      }
+    }
+  },
+  "pear": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/pear.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "груша" },
+        "en": { "W": "pear", "T": "peər" },
+        "he": { "W": "אַגָס", "T": "агас" }
+      },
+      "P": {
+        "ru": { "W": "груши" },
+        "en": { "W": "pears", "T": "peərz" },
+        "he": { "W": "אַגָסִים", "T": "агасим" }
+      }
+    }
+  },
+  "grapefruit": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/grapefruit.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "грейпфрут" },
+        "en": { "W": "grapefruit", "T": "ˈɡreɪpˌfruːt" },
+        "he": { "W": "אֶשְׁכּוֹלִית", "T": "эшколит" }
+      },
+      "P": {
+        "ru": { "W": "грейпфруты" },
+        "en": { "W": "grapefruits", "T": "ˈɡreɪpˌfruːts" },
+        "he": { "W": "אֶשְׁכּוֹלִיּוֹת", "T": "эшколиёт" }
+      }
+    }
+  },
+  "guava": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/guava.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "гуава" },
+        "en": { "W": "guava", "T": "ˈɡwɑː.və" },
+        "he": { "W": "גּוּיָבָה", "T": "гуява" }
+      },
+      "P": {
+        "ru": { "W": "гуавы" },
+        "en": { "W": "guavas", "T": "ˈɡwɑː.vəz" },
+        "he": { "W": "גּוּיָבוֹת", "T": "гуявот" }
+      }
+    }
+  },
+  "melon": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/melon.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "дыня" },
+        "en": { "W": "melon", "T": "ˈmel.ən" },
+        "he": { "W": "מֵלוֹן", "T": "мелон" }
+      },
+      "P": {
+        "ru": { "W": "дыни" },
+        "en": { "W": "melons", "T": "ˈmel.ənz" },
+        "he": { "W": "מֵלוֹנִים", "T": "мелоним" }
+      }
+    }
+  },
+  "fig": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/fig.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "инжир" },
+        "en": { "W": "fig", "T": "fɪɡ" },
+        "he": { "W": "תְּאֵנָה", "T": "теэна" }
+      },
+      "P": {
+        "ru": { "W": "инжир" },
+        "en": { "W": "figs", "T": "fɪɡz" },
+        "he": { "W": "תְּאֵנוֹת", "T": "теэнот" }
+      }
+    }
+  },
+  "kiwi": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/kiwi.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "киви" },
+        "en": { "W": "kiwi", "T": "ˈkiː.wiː" },
+        "he": { "W": "קִיווִי", "T": "киви" }
+      },
+      "P": {
+        "ru": { "W": "киви" },
+        "en": { "W": "kiwis", "T": "ˈkiː.wiːz" },
+        "he": { "W": "קִיווִיִּים", "T": "кивийим" }
+      }
+    }
+  },
+  "clementine": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/clementine.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "клементин" },
+        "en": { "W": "clementine", "T": "ˈklɛm.ənˌtaɪn" },
+        "he": { "W": "קְלֵמֶנְטִינָה", "T": "клементина" }
+      },
+      "P": {
+        "ru": { "W": "клементины" },
+        "en": { "W": "clementines", "T": "ˈklɛm.ənˌtaɪnz" },
+        "he": { "W": "קְלֵמֶנְטִינוֹת", "T": "клементинот" }
+      }
+    }
+  },
+  "coconut": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/coconut.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "кокос" },
+        "en": { "W": "coconut", "T": "ˈkəʊ.kəˌnʌt" },
+        "he": { "W": "קוֹקוֹס", "T": "кокос" }
+      },
+      "P": {
+        "ru": { "W": "кокосы" },
+        "en": { "W": "coconuts", "T": "ˈkəʊ.kəˌnʌts" },
+        "he": { "W": "קוֹקוֹסִים", "T": "кокосим" }
+      }
+    }
+  },
+  "lime": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/lime.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "лайм" },
+        "en": { "W": "lime", "T": "laɪm" },
+        "he": { "W": "לַיְם", "T": "лайм" }
+      },
+      "P": {
+        "ru": { "W": "лаймы" },
+        "en": { "W": "limes", "T": "laɪmz" },
+        "he": { "W": "לַיְמִים", "T": "лаймим" }
+      }
+    }
+  },
+  "lemon": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/lemon.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "лимон" },
+        "en": { "W": "lemon", "T": "ˈlɛm.ən" },
+        "he": { "W": "לִימוֹן", "T": "лимон" }
+      },
+      "P": {
+        "ru": { "W": "лимоны" },
+        "en": { "W": "lemons", "T": "ˈlɛm.ənz" },
+        "he": { "W": "לִימוֹנִים", "T": "лимоним" }
+      }
+    }
+  },
+  "lychee": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/lychee.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "личи" },
+        "en": { "W": "lychee", "T": "ˈliː.tʃiː" },
+        "he": { "W": "לִיצִ'י", "T": "личи" }
+      },
+      "P": {
+        "ru": { "W": "личи" },
+        "en": { "W": "lychees", "T": "ˈliː.tʃiːz" },
+        "he": { "W": "לִיצִ'יִים", "T": "личийим" }
+      }
+    }
+  },
+  "mango": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/mango.webp"
+    },
+    "gender": {
+      "ru": "N",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "манго" },
+        "en": { "W": "mango", "T": "ˈmæŋ.ɡoʊ" },
+        "he": { "W": "מַנְגוֹ", "T": "манго" }
+      },
+      "P": {
+        "ru": { "W": "манго" },
+        "en": { "W": "mangoes", "T": "ˈmæŋ.ɡoʊz" },
+        "he": { "W": "מַנְגוֹאִים", "T": "мангоим" }
+      }
+    }
+  },
+  "mandarin": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/mandarin.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "мандарин" },
+        "en": { "W": "mandarin", "T": "ˈmæn.də.rɪn" },
+        "he": { "W": "מַנְדָּרִין", "T": "мандрин" }
+      },
+      "P": {
+        "ru": { "W": "мандарины" },
+        "en": { "W": "mandarins", "T": "ˈmæn.də.rɪnz" },
+        "he": { "W": "מַנְדָּרִינִים", "T": "мандриним" }
+      }
+    }
+  },
+  "passion_fruit": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/passion_fruit.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "маракуйя" },
+      "en": { "W": "passion fruit", "T": "ˈpæʃ.ən ˌfruːt" },
+      "he": { "W": "פַּאֲסִיפְלוֹרָה", "T": "пасифлора" }
+    }
+  },
+  "nectarine": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/nectarine.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "нектарин" },
+        "en": { "W": "nectarine", "T": "ˈnek.tə.riːn" },
+        "he": { "W": "נֶקְטָרִינָה", "T": "нектарина" }
+      },
+      "P": {
+        "ru": { "W": "нектарины" },
+        "en": { "W": "nectarines", "T": "ˈnek.tə.riːnz" },
+        "he": { "W": "נֶקְטָרִינוֹת", "T": "нектаринот" }
+      }
+    }
+  },
+  "papaya": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/papaya.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "папайя" },
+      "en": { "W": "papaya", "T": "pəˈpaɪ.ə" },
+      "he": { "W": "פָּפַּאיָה", "T": "папайя" }
+    }
+  },
+  "peach": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/peach.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "персик" },
+        "en": { "W": "peach", "T": "piːtʃ" },
+        "he": { "W": "אֲפַרְסֵק", "T": "афарсек" }
+      },
+      "P": {
+        "ru": { "W": "персики" },
+        "en": { "W": "peaches", "T": "ˈpiːtʃɪz" },
+        "he": { "W": "אֲפַרְסְקִים", "T": "афарсэким" }
+      }
+    }
+  },
+  "pitaya": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/pitaya.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "питайя" },
+      "en": { "W": "pitaya", "T": "pɪˈtaɪ.ə" },
+      "he": { "W": "פִּיטָאיָה", "T": "питаия" }
+    }
+  },
+  "plum": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/plum.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "слива" },
+        "en": { "W": "plum", "T": "plʌm" },
+        "he": { "W": "שְׁזִיף", "T": "шезиф" }
+      },
+      "P": {
+        "ru": { "W": "сливы" },
+        "en": { "W": "plums", "T": "plʌmz" },
+        "he": { "W": "שְׁזִיפִים", "T": "шезифим" }
+      }
+    }
+  },
+  "feijoa": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/feijoa.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "фейхоа" },
+      "en": { "W": "feijoa", "T": "feɪˈʒoʊ.ə" },
+      "he": { "W": "פֵייג'וֹאָה", "T": "фейжоа" }
+    }
+  },
+  "persimmon": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/persimmon.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "хурма" },
+        "en": { "W": "persimmon", "T": "pərˈsɪm.ən" },
+        "he": { "W": "אֲפַרְסְמוֹן", "T": "афарсемон" }
+      },
+      "P": {
+        "ru": { "W": "хурмы" },
+        "en": { "W": "persimmons", "T": "pərˈsɪm.ənz" },
+        "he": { "W": "אֲפַרְסְמוֹנִים", "T": "афарсемоним" }
+      }
+    }
+  },
+  "citron": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/citron.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "цитрон" },
+        "en": { "W": "citron", "T": "ˈsɪt.rən" },
+        "he": { "W": "אֶתְרוֹג", "T": "этрог" }
+      },
+      "P": {
+        "ru": { "W": "цитроны" },
+        "en": { "W": "citrons", "T": "ˈsɪt.rənz" },
+        "he": { "W": "אֶתְרוֹגִים", "T": "этрогим" }
+      }
+    }
+  },
+  "date": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/date.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "финик" },
+        "en": { "W": "date", "T": "deɪt" },
+        "he": { "W": "תָּמָר", "T": "тамар" }
+      },
+      "P": {
+        "ru": { "W": "финики" },
+        "en": { "W": "dates", "T": "deɪts" },
+        "he": { "W": "תְּמָרִים", "T": "тмарим" }
+      }
+    }
+  },
+  "cherries": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/cherries.webp"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "черешня (сладкая вишня)" },
+        "en": { "W": "sweet cherry", "T": "swiːt ˈtʃer.i" },
+        "he": { "W": "דוּבְדְּבָן מתוק", "T": "дувдеван маток" }
+      },
+      "P": {
+        "ru": { "W": "черешни" },
+        "en": { "W": "cherries", "T": "ˈtʃer.iz" },
+        "he": { "W": "דוּבְדְּבָנִים", "T": "дувдеваним" }
+      }
+    }
+  },
+  "prunes": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/prunes.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "чернослив" },
+        "en": { "W": "prune", "T": "pruːn" },
+        "he": { "W": "שְׁזִיף מְיוּבָּשׁ", "T": "шезиф меюваш" }
+      },
+      "P": {
+        "ru": { "W": "черносливы" },
+        "en": { "W": "prunes", "T": "pruːnz" },
+        "he": { "W": "שְׁזִיפִים מְיוּבָּשִׁים", "T": "шезифим меювашим" }
+      }
+    }
+  },
+  "apple": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/apple.webp"
+    },
+    "gender": {
+      "ru": "N",
+      "he": "M"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "яблоко" },
+        "en": { "W": "apple", "T": "ˈæp.əl" },
+        "he": { "W": "תַּפּוּחַ", "T": "тапуах" }
+      },
+      "P": {
+        "ru": { "W": "яблоки" },
+        "en": { "W": "apples", "T": "ˈæp.əls" },
+        "he": { "W": "תַּפּוּחִים", "T": "тапухим" }
+      }
+    }
+  },
+  "pomelo": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/pomelo.webp"
+    },
+    "gender": {
+      "ru": "N",
+      "he": "F"
+    },
+    "phrase": {
+      "S": {
+        "ru": { "W": "помело" },
+        "en": { "W": "pomelo", "T": "ˈpɒm.ə.loʊ" },
+        "he": { "W": "פּוֹמֶלה", "T": "помела" }
+      },
+      "P": {
+        "ru": { "W": "помело" },
+        "en": { "W": "pomelos", "T": "ˈpɒm.ə.loʊz" },
+        "he": { "W": "פּוֹמֶלוֹת", "T": "помелот" }
+      }
+    }
+  },
+  "pomelit": {
+    "topic": "fruits",
+    "style": {
+      "img": "images/fruits/pomelit.webp"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "помелит (свити)" },
+      "en": { "W": "pomelit", "T": "ˈpɒm.ə.lɪt" },
+      "he": { "W": "פּוֹמֶלִיט", "T": "помелит" }
+    }
+  }
+}
