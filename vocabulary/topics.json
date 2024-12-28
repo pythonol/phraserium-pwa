@@ -1,103 +1,6 @@
 {
-  "bank": {
-    "name": {
-      "ru": "банк"
-    },
-    "style": {
-      "icon": "account_balance"
-    }
-  },
-  "berries": {
-    "name": {
-      "ru": "ягоды"
-    },
-    "style": {
-      "img": "vocabulary/icons/strawberries.png"
-    }
-  },
-  "cafe": {
-    "name": {
-      "ru": "кафе"
-    },
-    "style": {
-      "icon": "local_cafe"
-    }
-  },
-  "car": {
-    "name": {
-      "ru": "машина"
-    },
-    "style": {
-      "icon": "drive_eta"
-    }
-  },
-  "clothes": {
-    "name": {
-      "ru": "одежда"
-    },
-    "style": {
-      "icon": "checkroom"
-    }
-  },
-  "colors": {
-    "name": {
-      "ru": "цвета"
-    },
-    "style": {
-      "img": "vocabulary/icons/palette.png"
-    }
-  },
-  "compare": {
-    "name": {
-      "ru": "сравнение"
-    }
-  },
-  "dir": {
-    "name": {
-      "ru": "направл."
-    },
-    "style": {
-      "icon": "navigation"
-    }
-  },
-  "doctor": {
-    "name": {
-      "ru": "врач"
-    },
-    "style": {
-      "icon": "medication"
-    }
-  },
-  "figures": {
-    "name": {
-      "ru": "фигуры"
-    },
-    "style": {
-      "icon": "view_in_ar"
-    }
-  },
-  "foods": {
-    "name": {
-      "ru": "продукты"
-    }
-  },
-  "fruits": {
-    "name": {
-      "ru": "фрукты"
-    },
-    "style": {
-      "img": "vocabulary/icons/fruits.png"
-    }
-  },
-  "home": {
-    "name": {
-      "ru": "дом"
-    },
-    "style": {
-      "img": "vocabulary/icons/house.png"
-    }
-  },
   "misc": {
+    "order": 0,
     "name": {
       "ru": "разное"
     },
@@ -105,15 +8,17 @@
       "icon": "bookmark"
     }
   },
-  "numbers": {
+  "bank": {
+    "order": 10,
     "name": {
-      "ru": "числа"
+      "ru": "банк"
     },
     "style": {
-      "icon": "numbers"
+      "icon": "account_balance"
     }
   },
   "post": {
+    "order": 10,
     "name": {
       "ru": "почта"
     },
@@ -121,39 +26,36 @@
       "icon": "mail"
     }
   },
-  "sizes": {
+  "doctor": {
+    "order": 10,
     "name": {
-      "ru": "размеры"
+      "ru": "врач"
     },
     "style": {
-      "icon": "open_in_full"
+      "icon": "medication"
     }
   },
-  "shop": {
+  "cafe": {
+    "order": 10,
     "name": {
-      "ru": "магазин"
+      "ru": "кафе"
     },
     "style": {
-      "icon": "shopping_cart"
+      "icon": "local_cafe"
     }
   },
-  "sport": {
+  "home": {
+    "order": 10,
     "name": {
-      "ru": "спорт"
+      "ru": "дом"
     },
     "style": {
-      "icon": "sports_football"
+      "img": "vocabulary/icons/house.png"
     }
   },
-  "time": {
-    "name": {
-      "ru": "время"
-    },
-    "style": {
-      "icon": "schedule"
-    }
-  },
+
   "transport": {
+    "order": 20,
     "name": {
       "ru": "транспорт"
     },
@@ -161,12 +63,136 @@
       "icon": "directions_bus"
     }
   },
+  "car": {
+    "order": 20,
+    "name": {
+      "ru": "машина"
+    },
+    "style": {
+      "icon": "drive_eta"
+    }
+  },
+
+  "colors": {
+    "order": 30,
+    "name": {
+      "ru": "цвета"
+    },
+    "style": {
+      "img": "vocabulary/icons/palette.png"
+    }
+  },
+  "numbers": {
+    "order": 30,
+    "name": {
+      "ru": "числа"
+    },
+    "style": {
+      "icon": "numbers"
+    }
+  },
+  "sizes": {
+    "order": 30,
+    "name": {
+      "ru": "размеры"
+    },
+    "style": {
+      "icon": "open_in_full"
+    }
+  },
+  "compare": {
+    "order": 30,
+    "name": {
+      "ru": "сравнение"
+    }
+  },
+  "dir": {
+    "order": 30,
+    "name": {
+      "ru": "направл."
+    },
+    "style": {
+      "icon": "navigation"
+    }
+  },
+  "figures": {
+    "order": 30,
+    "name": {
+      "ru": "фигуры"
+    },
+    "style": {
+      "icon": "view_in_ar"
+    }
+  },
+  "time": {
+    "order": 30,
+    "name": {
+      "ru": "время"
+    },
+    "style": {
+      "icon": "schedule"
+    }
+  },
+
+  "sport": {
+    "order": 40,
+    "name": {
+      "ru": "спорт"
+    },
+    "style": {
+      "icon": "sports_football"
+    }
+  },
+
+  "shop": {
+    "order": 50,
+    "name": {
+      "ru": "магазин"
+    },
+    "style": {
+      "icon": "shopping_cart"
+    }
+  },
+  "foods": {
+    "order": 50,
+    "name": {
+      "ru": "продукты"
+    }
+  },
+  "berries": {
+    "order": 50,
+    "name": {
+      "ru": "ягоды"
+    },
+    "style": {
+      "img": "vocabulary/icons/strawberries.png"
+    }
+  },
+  "fruits": {
+    "order": 50,
+    "name": {
+      "ru": "фрукты"
+    },
+    "style": {
+      "img": "vocabulary/icons/fruits.png"
+    }
+  },
   "veggies": {
+    "order": 50,
     "name": {
       "ru": "овощи"
     },
     "style": {
       "img": "vocabulary/icons/carrot.png"
+    }
+  },
+  "clothes": {
+    "order": 50,
+    "name": {
+      "ru": "одежда"
+    },
+    "style": {
+      "icon": "checkroom"
     }
   }
 }
