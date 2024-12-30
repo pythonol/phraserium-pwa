@@ -1,34 +1,60 @@
 {
-  "misc": {
-    "name": { "ru": "разное" },
-    "style": { "icon": "bookmark" }
-  },
-
-  "shop": {
-    "name": { "ru": "магазин" },
-    "style": { "icon": "shopping_cart" }
-  },
-  "foods": {
-    "name": { "ru": "продукты" },
-    "style": { "img": "vocabulary/icons/foods.png" }
+  "bank": {
+    "name": { "ru": "банк" },
+    "style": { "icon": "account_balance" }
   },
   "berries": {
     "name": { "ru": "ягоды" },
     "style": { "img": "vocabulary/icons/strawberries.png" }
   },
-  "fruits": {
-    "name": { "ru": "фрукты" },
-    "style": { "img": "vocabulary/icons/fruits.png" }
+  "cafe": {
+    "name": { "ru": "кафе" },
+    "style": { "img": "vocabulary/icons/fast-food.png" }
   },
-  "veggies": {
-    "name": { "ru": "овощи" },
-    "style": { "img": "vocabulary/icons/carrot.png" }
+  "car": {
+    "name": { "ru": "машина" },
+    "style": { "icon": "drive_eta" }
   },
   "clothes": {
     "name": { "ru": "одежда" },
     "style": { "icon": "checkroom" }
   },
-
+  "colors": {
+    "name": { "ru": "цвета" },
+    "style": { "img": "vocabulary/icons/palette.png" }
+  },
+  "compare": {
+    "name": { "ru": "сравнение" },
+    "style": { "img": "vocabulary/icons/scales.png" }
+  },
+  "dir": {
+    "name": { "ru": "направл." },
+    "style": { "icon": "navigation" }
+  },
+  "doctor": {
+    "name": { "ru": "врач" },
+    "style": { "img": "vocabulary/icons/first-aid.png" }
+  },
+  "figures": {
+    "name": { "ru": "фигуры" },
+    "style": { "img": "vocabulary/icons/geometric.png" }
+  },
+  "foods": {
+    "name": { "ru": "продукты" },
+    "style": { "img": "vocabulary/icons/foods.png" }
+  },
+  "fruits": {
+    "name": { "ru": "фрукты" },
+    "style": { "img": "vocabulary/icons/fruits.png" }
+  },
+  "home": {
+    "name": { "ru": "дом" },
+    "style": { "img": "vocabulary/icons/house.png" }
+  },
+  "misc": {
+    "name": { "ru": "разное" },
+    "style": { "icon": "bookmark" }
+  },
   "nouns": {
     "name": { "ru": "местоимен." },
     "style": { "icon": "diversity_3" }
@@ -37,60 +63,28 @@
     "name": { "ru": "числа" },
     "style": { "icon": "numbers" }
   },
-  "colors": {
-    "name": { "ru": "цвета" },
-    "style": { "img": "vocabulary/icons/palette.png" }
+  "post": {
+    "name": { "ru": "почта" },
+    "style": { "img": "vocabulary/icons/mailbox.png" }
+  },
+  "shop": {
+    "name": { "ru": "магазин" },
+    "style": { "icon": "shopping_cart" }
+  },
+  "sport": {
+    "name": { "ru": "спорт" },
+    "style": { "icon": "sports_football" }
   },
   "time": {
     "name": { "ru": "время" },
     "style": { "icon": "schedule" }
   },
-
-  "compare": {
-    "name": { "ru": "сравнение" },
-    "style": { "img": "vocabulary/icons/scales.png" }
-  },
-  "figures": {
-    "name": { "ru": "фигуры" },
-    "style": { "img": "vocabulary/icons/geometric.png" }
-  },
-
-  "bank": {
-    "name": { "ru": "банк" },
-    "style": { "icon": "account_balance" }
-  },
-  "post": {
-    "name": { "ru": "почта" },
-    "style": { "img": "vocabulary/icons/mailbox.png" }
-  },
-  "doctor": {
-    "name": { "ru": "врач" },
-    "style": { "img": "vocabulary/icons/first-aid.png" }
-  },
-  "cafe": {
-    "name": { "ru": "кафе" },
-    "style": { "img": "vocabulary/icons/fast-food.png" }
-  },
-  "home": {
-    "name": { "ru": "дом" },
-    "style": { "img": "vocabulary/icons/house.png" }
-  },
-
   "transport": {
     "name": { "ru": "транспорт" },
     "style": { "icon": "directions_bus" }
   },
-  "car": {
-    "name": { "ru": "машина" },
-    "style": { "icon": "drive_eta" }
-  },
-  "dir": {
-    "name": { "ru": "направл." },
-    "style": { "icon": "navigation" }
-  },
-
-  "sport": {
-    "name": { "ru": "спорт" },
-    "style": { "icon": "sports_football" }
+  "veggies": {
+    "name": { "ru": "овощи" },
+    "style": { "img": "vocabulary/icons/carrot.png" }
   }
 }
