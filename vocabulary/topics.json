@@ -47,6 +47,10 @@
     "name": { "ru": "фрукты" },
     "style": { "img": "vocabulary/icons/fruits.png" }
   },
+  "geography": {
+    "name": { "ru": "география" },
+    "style": { "img": "vocabulary/icons/geography.png" }
+  },
   "home": {
     "name": { "ru": "дом" },
     "style": { "img": "vocabulary/icons/house.png" }

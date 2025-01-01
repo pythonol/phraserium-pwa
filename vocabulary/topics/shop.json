@@ -1,5 +1,5 @@
 {
-    "how much": {
+    "how_much": {
         "topic": "shop",
         "phrase": {
             "ru": { "W": "Сколько это стоит?" },
@@ -47,7 +47,7 @@
             }
         }
     },
-    "give me": {
+    "give_me": {
         "topic": "shop",
         "phrase": {
             "ru": { "W": "Дай мне, пожалуйста ..." },
