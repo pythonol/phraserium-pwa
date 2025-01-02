@@ -57,7 +57,7 @@
   "star": {
     "gender": {
       "ru": "F",
-      "he": "F"
+      "he": "M"
     },
     "phrase": {
       "S": {
@@ -70,6 +70,17 @@
         "en": { "W": "stars", "T": "stɑːrz" },
         "he": { "W": "כּוֹכָבִים", "T": "кохавим" }
       }
+    }
+  },
+  "constellation": {
+    "gender": {
+      "ru": "N",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "созвездие" },
+      "en": { "W": "constellation", "T": "kɑːn.stəˈleɪ.ʃən" },
+      "he": { "W": "קְבוּצַת כּוֹכָבִים", "T": "квуцат кохавим" }
     }
   },
   "comet": {
@@ -506,6 +517,17 @@
       }
     }
   },
+  "swamp": {
+    "gender": {
+      "ru": "N",
+      "he": "F"
+    },
+    "phrase": {
+      "ru": { "W": "болото" },
+      "en": { "W": "swamp", "T": "swɑːmp" },
+      "he": { "W": "בִּצָּה", "T": "бица" }
+    }
+  },
   "spring": {
     "gender": {
       "ru": "M",
@@ -808,7 +830,7 @@
     }
   },
   "cardinal_point": {
-    "order": 9,
+    "order": -20,
     "style": {
       "emoji": "🧭"
     },
@@ -819,7 +841,7 @@
     }
   },
   "North": {
-    "order": 10,
+    "order": -19,
     "style": {
       "icon": "north"
     },
@@ -830,7 +852,7 @@
     }
   },
   "South": {
-    "order": 11,
+    "order": -18,
     "style": {
       "icon": "south"
     },
@@ -841,7 +863,7 @@
     }
   },
   "West": {
-    "order": 12,
+    "order": -17,
     "style": {
       "icon": "west"
     },
@@ -852,7 +874,7 @@
     }
   },
   "East": {
-    "order": 13,
+    "order": -16,
     "style": {
       "icon": "east"
     },
@@ -863,7 +885,7 @@
     }
   },
   "Equator": {
-    "order": 14,
+    "order": -15,
     "phrase": {
       "ru": { "W": "Экватор" },
       "en": { "W": "Equator", "T": "ɪˈkweɪ.tər" },
@@ -871,7 +893,7 @@
     }
   },
   "North Pole": {
-    "order": 15,
+    "order": -14,
     "phrase": {
       "ru": { "W": "Северный полюс" },
       "en": { "W": "North Pole", "T": "nɔːrθ poʊl" },
@@ -879,7 +901,7 @@
     }
   },
   "South Pole": {
-    "order": 16,
+    "order": -13,
     "phrase": {
       "ru": { "W": "Южный полюс" },
       "en": { "W": "South Pole", "T": "saʊθ poʊl" },
@@ -887,9 +909,13 @@
     }
   },
   "Earth": {
-    "order": 20,
+    "order": -10,
     "style": {
       "emoji": "🌎"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "F"
     },
     "phrase": {
       "ru": { "W": "Земля" },
@@ -898,7 +924,7 @@
     }
   },
   "Moon": {
-    "order": 20,
+    "order": -9,
     "style": {
       "emoji": "🌙"
     },
@@ -913,7 +939,7 @@
     }
   },
   "Sun": {
-    "order": 20,
+    "order": -8,
     "style": {
       "emoji": "☀️"
     },
@@ -928,7 +954,7 @@
     }
   },
   "Polaris": {
-    "order": 20,
+    "order": -7,
     "style": {
       "emoji": "✴",
       "color": "blue"
@@ -941,6 +967,21 @@
       "ru": { "W": "Полярная звезда" },
       "en": { "W": "Polaris", "T": "pəˈlɛər.ɪs" },
       "he": { "W": "כּוֹכָב הַצָּפוֹן", "T": "кохав hа-цафон" }
+    }
+  },
+  "Milky Way": {
+    "order": -6,
+    "style": {
+      "emoji": "🌌"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "Млечный Путь" },
+      "en": { "W": "Milky Way", "T": "mɪl.ki ˈweɪ" },
+      "he": { "W": "שְׁבִיל הַחָלָב", "T": "швиль hа-халав" }
     }
   },
 
