@@ -94,5 +94,9 @@
   "veggies": {
     "name": { "ru": "овощи" },
     "style": { "img": "vocabulary/icons/carrot.png" }
+  },
+  "weather": {
+    "name": { "ru": "погода" },
+    "style": { "img": "vocabulary/icons/weather.png" }
   }
 }
