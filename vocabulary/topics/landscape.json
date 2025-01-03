@@ -663,7 +663,7 @@
   "Earth": {
     "order": 40,
     "style": {
-      "emoji": "🌎"
+      "emoji": "🌍"
     },
     "gender": {
       "ru": "F",
@@ -673,6 +673,21 @@
       "ru": { "W": "Земля" },
       "en": { "W": "Earth", "T": "ɜːrθ" },
       "he": { "W": "כָּדוּר הָאָרֶץ", "T": "кадур hа-эрец" }
+    }
+  },
+  "Mars": {
+    "order": 40,
+    "style": {
+      "img": "images/landscape/mars.png"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "Марс" },
+      "en": { "W": "Mars", "T": "mɑːrz" },
+      "he": { "W": "מַאֲדִים", "T": "маадим" }
     }
   },
   "Moon": {
@@ -688,6 +703,36 @@
       "ru": { "W": "Луна" },
       "en": { "W": "Moon", "T": "muːn" },
       "he": { "W": "יָרֵחַ", "T": "яреах" }
+    }
+  },
+  "Saturn": {
+    "order": 40,
+    "style": {
+      "emoji": "🪐"
+    },
+    "gender": {
+      "ru": "M",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "Сатурн" },
+      "en": { "W": "Saturn", "T": "sæt̬.ɚn" },
+      "he": { "W": "שַׁבְּתַאי", "T": "шабтай" }
+    }
+  },
+  "Venus": {
+    "order": 40,
+    "style": {
+      "img": "images/landscape/venus.png"
+    },
+    "gender": {
+      "ru": "F",
+      "he": "M"
+    },
+    "phrase": {
+      "ru": { "W": "Венера" },
+      "en": { "W": "Venus", "T": "viː.nəs" },
+      "he": { "W": "נוגה", "T": "нога" }
     }
   },
   "Sun": {
@@ -737,13 +782,13 @@
     }
   },
   "comet": {
-    "order": 40,
+    "order": 45,
+    "style": {
+      "emoji": "☄️"
+    },
     "gender": {
       "ru": "F",
       "he": "F"
-    },
-    "style": {
-      "emoji": "☄️"
     },
     "phrase": {
       "S": {
@@ -759,7 +804,7 @@
     }
   },
   "constellation": {
-    "order": 40,
+    "order": 45,
     "style": {
       "icon": "insights"
     },
@@ -774,7 +819,10 @@
     }
   },
   "galaxy": {
-    "order": 40,
+    "order": 45,
+    "style": {
+      "img": "images/landscape/galaxy.png"
+    },
     "gender": {
       "ru": "F",
       "he": "F"
@@ -786,10 +834,7 @@
     }
   },
   "planet": {
-    "order": 40,
-    "style": {
-      "emoji": "🪐"
-    },
+    "order": 45,
     "gender": {
       "ru": "F",
       "he": "F"
@@ -808,7 +853,7 @@
     }
   },
   "space": {
-    "order": 40,
+    "order": 45,
     "gender": {
       "ru": "M",
       "he": "M"
@@ -820,9 +865,9 @@
     }
   },
   "star": {
-    "order": 40,
+    "order": 45,
     "style": {
-      "emoji": "✴",
+      "emoji": "🌟",
       "color": "yellow"
     },
     "gender": {
@@ -843,7 +888,7 @@
     }
   },
   "universe": {
-    "order": 40,
+    "order": 45,
     "gender": {
       "ru": "F",
       "he": "M"
