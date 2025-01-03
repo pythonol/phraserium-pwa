@@ -47,13 +47,13 @@
     "name": { "ru": "фрукты" },
     "style": { "img": "vocabulary/icons/fruits.png" }
   },
-  "geography": {
-    "name": { "ru": "география" },
-    "style": { "img": "vocabulary/icons/geography.png" }
-  },
   "home": {
     "name": { "ru": "дом" },
     "style": { "img": "vocabulary/icons/house.png" }
+  },
+  "landscape": {
+    "name": { "ru": "ландшафт" },
+    "style": { "img": "vocabulary/icons/landscape.png" }
   },
   "misc": {
     "name": { "ru": "разное" },
@@ -86,6 +86,10 @@
   "transport": {
     "name": { "ru": "транспорт" },
     "style": { "icon": "directions_bus" }
+  },
+  "urban": {
+    "name": { "ru": "город" },
+    "style": { "icon": "location_city" }
   },
   "veggies": {
     "name": { "ru": "овощи" },
